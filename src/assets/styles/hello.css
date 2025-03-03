@@ -1,0 +1,38 @@
+.hello {
+    text-align: center;
+    padding: 60px;
+}
+
+.hello_img {
+    height: 50vh;
+    will-change: filter;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+.hello_p {
+    font-weight: 900;
+}
+
+.begin_button {
+    cursor: pointer;
+    font-size: 32px;
+    font-weight: 300;
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 8px;
+    color: #0f0f0f;
+    background-color: #ffffff;
+    transition: boder-color 0.25s;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+    outline: none;
+}
+
+.begin_button:active {
+    border-color: #396cd8;
+    background-color: #e8e8e8;
+}
+
+.hello_h {
+    font-size: 32px;
+}

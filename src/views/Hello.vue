@@ -151,7 +151,7 @@ onMounted(async () => {
             type="card"
             interval="10000">
             <el-carousel-item>
-                <span class="first">欢迎来到大斐记账！</span>
+                <span class="first">欢迎来到斐记！</span>
             </el-carousel-item>
             <el-carousel-item>
                 <h3 class="small justify-center" text="2xl">欢迎提出改进意见！</h3>
